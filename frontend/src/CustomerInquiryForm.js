@@ -1,4 +1,3 @@
-// src/components/InquiryForm.js
 import React, { useState } from "react";
 import "./CustomerInquiryForm.css";
 function CustomerInquiryForm() {
